@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="logo_margin">100dp</dimen>
+    <dimen name="homescreen_horizontal_margin">20dp</dimen>
+    <dimen name="searchBar_vertical_padding">8dp</dimen>
+    <dimen name="searchBar_horizontal_padding">20dp</dimen>
+    <dimen name="recycler_image_padding">40dp</dimen>
+    <dimen name="recycler_text_margin">10dp</dimen>
+
+</resources>
